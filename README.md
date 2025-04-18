@@ -32,5 +32,8 @@ You can feed, play, train, and let your pet sleep — all with clickable buttons
 - State management
 
 ---
+## 🚀 Getting Started
+
+### 1. Clone the Repo or Download the Code
 
 
